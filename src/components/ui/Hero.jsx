@@ -50,9 +50,10 @@ const Hero = () => {
               <span>
                 <i className="ri-apps-2-line"></i>
               </span>
-              Ut non ex sollicitudin erat tristique facilisis. Donec sapien
-              orci, porta sed venenatis vel, auctor vitae orci. Aliquam sodales
-              vel eros ac euismod.
+              I'm Duc Anh, a passionate freelancer bringing you programming and
+              design from the future. I am experienced in developing web and
+              desktop applications including full front end design. This
+              includes brand identity, graphics and illustrations.
             </p>
 
             <div className="flex items-center gap-9 mt-14">
